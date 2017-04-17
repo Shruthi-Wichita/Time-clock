@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  clock_in: 2017-04-17 15:38:54
+  clock_out: 2017-04-17 15:38:54
+  project: one
+  user: one
+
+two:
+  clock_in: 2017-04-17 15:38:54
+  clock_out: 2017-04-17 15:38:54
+  project: two
+  user: two
